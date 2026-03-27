@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Talha Enes Fidan</h1>
 
-<!--
-**TalhaEnesFidan/TalhaEnesFidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;AI+%7C+Cyber+Security+Enthusiast;Code+%7C+Learn+%7C+Repeat+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:talhaenesfidan28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00FFAA?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/talha-enes-fidan/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FFAA?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://github.com/TalhaEnesFidan">
+    <img src="https://img.shields.io/badge/GitHub-00FFAA?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🎓 Software Engineering Student
+- 💻 Focused on Backend & Software Development
+- 🤖 Interested in AI, Cyber Security, Database Systems
+- 🚀 Always building, learning and improving
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,nodejs,mysql,git,github,vscode&perline=10" />
+</p>
