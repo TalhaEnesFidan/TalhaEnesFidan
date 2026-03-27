@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋 I'm Talha Enes Fidan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;AI+%7C+Cyber+Security+Enthusiast;Code+%7C+Learn+%7C+Repeat+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000080&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Backend+Developer;AI+%7C+Cyber+Security+Enthusiast;Code+%7C+Learn+%7C+Repeat+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:talhaenesfidan28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFAA?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-000080?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/talha-enes-fidan/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFAA?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-000080?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/TalhaEnesFidan">
-    <img src="https://img.shields.io/badge/GitHub-00FFAA?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-000080?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
