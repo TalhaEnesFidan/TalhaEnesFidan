@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 - 🎓 Software Engineering Student  
-- 💻 Focused on Backend & Software Development  
+- 💻 Focused on App Development 
 - 🤖 Interested in AI, Cyber Security, Database Systems  
 - 🚀 Always building, learning and improving  
 
