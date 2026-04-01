@@ -21,8 +21,7 @@
 ## 🧠 About Me
 - 🎓 Software Engineering Student  
 - 💻 Focused on App Development 
-- 🤖 Interested in AI, Cyber Security, Database Systems  
-- 🚀 Always building, learning and improving  
+- 🤖 Interested in AI, Cyber Security, Database Systems   
 
 ---
 
